@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\nave.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\robot_script.cs">
     <Files>
-      <File FileName="Assets\Scripts\nave.cs" Line="7" Column="20" />
+      <File FileName="Assets\Scripts\robot_script.cs" Line="26" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

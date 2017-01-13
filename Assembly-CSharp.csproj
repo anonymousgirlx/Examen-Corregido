@@ -47,11 +47,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\GameControl.cs" />
+     <Compile Include="Assets\Scripts\cartera.cs" />
      <Compile Include="Assets\Scripts\explota.cs" />
+     <Compile Include="Assets\Scripts\ladron_script.cs" />
      <Compile Include="Assets\Scripts\marcador.cs" />
      <Compile Include="Assets\Scripts\movimientoJ1.cs" />
      <Compile Include="Assets\Scripts\movimientoJ2.cs" />
      <Compile Include="Assets\Scripts\nave.cs" />
+     <Compile Include="Assets\Scripts\robot_script.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
